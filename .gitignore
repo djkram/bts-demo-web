@@ -2,6 +2,7 @@
 .claspath
 .project
 .mvn
+.settings
 target
 
 # Java Binaries
