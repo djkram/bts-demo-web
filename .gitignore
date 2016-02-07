@@ -1,6 +1,7 @@
 # Maven files
 .claspath
 .project
+.mvn
 target
 
 # Java Binaries
